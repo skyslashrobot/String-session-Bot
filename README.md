@@ -22,7 +22,7 @@ Telegram Bot to generate Pyrogram and Telethon String Session.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/Wahyu213/String-Session-Bot
+   git clone https://github.com/skyslashrobot/String-Session-Bot
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
